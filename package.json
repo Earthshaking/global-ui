@@ -15,7 +15,7 @@
     "element-theme": "^2.0.1",
     "element-theme-chalk": "^2.7.2",
     "element-ui": "^2.7.2",
-    "jquery": "^2.2.3",
+    "jquery": "^3.5.0",
     "popper.js": "^1.15.0",
     "vue": "^2.5.2",
     "vue-gemini-scrollbar": "^2.0.1",
